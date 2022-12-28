@@ -1,0 +1,65 @@
+<resources>
+    <string name="all_select_mode">Select mode</string>
+    <string name="all_mode_light">Light</string>
+    <string name="all_mode_dark">Dark</string>
+    <string name="all_mode_system">System</string>
+    <string name="all_off">Off</string>
+    <string name="all_on">On</string>
+    <string name="home_exit">Tap again to exit</string>
+    <string name="no_internet">No Internet.</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="event">Events</string>
+    <string name="text_null">--</string>
+
+    <string name="all_minutes">minutes</string>
+    <string name="all_minute">minute</string>
+    <plurals name="all_unit_minute">
+        <item quantity="one">@string/all_minute</item>
+        <item quantity="other">@string/all_minutes</item>
+    </plurals>
+
+    <string name="all_hour">hour</string>
+    <string name="all_hours">hours</string>
+
+    <plurals name="all_unit_hour">
+        <item quantity="one">@string/all_hour</item>
+        <item quantity="other">@string/all_hours</item>
+    </plurals>
+
+    <string name="all_min">min</string>
+
+    <string name="home_recent_empty">Holiday history will appear here.</string>
+    <string name="version">Version</string>
+
+    <string name="setting_dark_mode">Dark mode</string>
+
+    <string name="new_release">New release</string>
+    <string name="tab_all">All</string>
+    <string name="tab_vietnam">Vietnam</string>
+    <string name="tab_world">Global</string>
+    <string name="enable_shuffle">Enable shuffle</string>
+
+    <string name="label_pause">Pause</string>
+    <string name="label_play">Play</string>
+    <string name="label_previous">Previous</string>
+    <string name="label_next">Next</string>
+
+    <string name="play_item">Play item</string>
+    <string name="play_pause">play or pause</string>
+    <string name="currently_playing_song">Song currently playing</string>
+    <string name="currently_playing_artist">Artist of currently playing song</string>
+    <string name="currently_playing_extra_info">Extra info for currently playing song</string>
+
+    <string name="app_name">2048</string>
+    <string name="score">Point score: \n</string>
+    <string name="high">High score: \n</string>
+    <string name="best_score">Best</string>
+    <string name="winner_toast_message">W I N N E R! </string>
+    <string name="lose_toast_message">SORRY, NO MORE MOVES.  PLAY AGAIN?</string>
+    <string name="personalbest_toast_message">WOW, YOU HAVE REACHED A NEW PERSONAL BEST?</string>
+    <string name="new_game">New Game</string>
+    <string name="blank" />
+    <string name="game_data_preference_key">au.com.summerland.tzfe.game.data</string>
+    <string name="game_data_highest_score_int_key">tzfe.highest.score.int</string>
+</resources>
